@@ -1,0 +1,1 @@
+ghcr.io/lareza-farhan-wanaghi/item-app:v1
