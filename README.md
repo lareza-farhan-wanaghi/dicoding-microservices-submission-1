@@ -157,9 +157,7 @@
 
 ### 3. Deploying the App with Docker Compose
 
-1. Create the "
-
-docker-compose.yml" file.
+1. Create the "docker-compose.yml" file.
 
    ```bash
    nano docker-compose.yml
